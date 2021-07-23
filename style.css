@@ -42,8 +42,8 @@ body {
     border: 1px solid rgb(139, 132, 132);
     margin: 10px;
     position: relative;
-    /* transition-property:src; */
-    /* transition-duration: 1s; */
+    transition-property:box-shadow;
+    transition-duration: 1s;
 }
 
 img {
